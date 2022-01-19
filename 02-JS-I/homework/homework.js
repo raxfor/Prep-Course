@@ -306,7 +306,7 @@ function esVocal(letra){
   }
 
 }
-esVocal("bb");
+console.log(esVocal("a")); 
 
 
 // No modificar nada debajo de esta línea

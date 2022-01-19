@@ -1,0 +1,16 @@
+ For
+ Es un ciclo el cual es muy util cunado sabemos la cantidad de veces que necesitmaos ejecutar el codigo
+
+
+ && = AND "Conjuncion"
+ Es verdadero solo si ambas son verdaderas y es falso cuando al menos uno de los valores es falso.
+
+ || = OR "Disyuncion inclusiva "
+
+ Es verdadera cuando por lo menos una es verdadera de lo contrario sera falsa.
+
+ ! = "Negacion"
+
+ Se utiliza para obtener el valor contrario al valor dado.
+
+ Tanto AND como OR obtienen sus resultados combinando valores booleanos.(verdadero o falso).
