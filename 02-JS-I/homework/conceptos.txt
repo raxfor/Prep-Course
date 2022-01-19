@@ -1,0 +1,25 @@
+¿Que es una variable?
+
+Una variable es como una canasta que puede contener valores de cualquier tipo.
+
+¿Que es un string?
+
+Es la union de diferentes caracteres que son como eslavones que se unen para formar una cadena de texto.
+
+¿Que son funciones?
+
+Las funciones son como herramientas que tienes dentro de un maletin y tu puedes tener una herramienta que realiza algo lista para usarse.
+
+Parametros: Es el valor que recibira la funcion dentro de sus parentesis y se opera dentro de su bloque de codigo.
+
+Argumentos:Son los valores que se le asignan a los parametros luego de que la funcion fue declarada.
+
+¿Que son declaraciones?
+
+Nos permiten establecer un flujo de nuestras tareas nos permiten dar un sentido logico a nuestros programas.
+
+If: Permite evaluar una condicion y si esta se cumple realizar una condicion.
+
+¿Que son valores booleanos?
+
+los valores boolenaos solo pueden tener dos valores ya sea true o false. 
