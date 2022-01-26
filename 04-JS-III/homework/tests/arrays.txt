@@ -1,0 +1,4 @@
+¿Que son arrays?
+
+los arrays son una caja con mas cajitas a dentro  en donde pueden guardar cosas en una caja especifica.
+estos contienen un indice y empieza en 0 se pueden acceder a cada elemento individualmente.
