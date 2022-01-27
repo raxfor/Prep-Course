@@ -1,0 +1,19 @@
+¿Que es un objeto?
+
+Los objetos son estructuras de datos formadas por metodos y atibutos.
+
+¿Que son propiedades?
+
+Es una caracteristica del objeto.
+
+¿Que son metodos?
+
+Nos sirve para hacer cambios a nuestras propiedades y para retornar valores.
+
+¿Que son bucles?
+
+Nos permiten ejecutar las mismas lineas de codigo una y otra vez de forma consecutiva.
+
+Notación de puntos vs notación de corchetes
+
+La notación de puntos es más rápida de escribir y más clara de leer en cambio la notacion de corchetes nos permite el acceso a propiedades que contiene caracteres especiales.

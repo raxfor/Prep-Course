@@ -1,0 +1,7 @@
+¿Que es prototype?
+
+prototype nos permite crear nuevas propiedades para todos los objetos ya instanciados.
+
+¿Que es _Constructors_ ?
+
+Nos sirve para inicializar un objeto creado a partir de una clase.
