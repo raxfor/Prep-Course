@@ -1,0 +1,3 @@
+¿Que son callbacks?
+
+bueno estos son funciones que pueden ser llamadas como argumentos en otras funciones.
